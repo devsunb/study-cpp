@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudio,visualstudiocode,c++,c
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows,visualstudio,visualstudiocode,c++,c
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudio,visualstudiocode,c++,c
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,visualstudio,visualstudiocode,c++,c
 
 ### C ###
 # Prerequisites
@@ -506,4 +506,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudio,visualstudiocode,c++,c
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudio,visualstudiocode,c++,c
