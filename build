@@ -1,6 +1,0 @@
-#!/bin/bash
-
-g++ main.cpp -o output/main \
-&& chmod 755 output/main \
-&& output/main \
-&& echo ""
